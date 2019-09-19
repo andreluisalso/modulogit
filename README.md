@@ -2,5 +2,3 @@
 
 
 aterando o readme
-c
-afascaCccacac
